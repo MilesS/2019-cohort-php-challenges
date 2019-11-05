@@ -623,4 +623,15 @@ Welcome to [1mUbuntu 16.04.3 LTS[0m!
 
 Ubuntu 16.04.3 LTS ubuntu-xenial ttyS0
 
-ubuntu-xenial login: 
+ubuntu-xenial login: [[0;32m  OK  [0m] Started ACPI event daemon.
+         Stopping LSB: automatic crash report generation...
+[[0;32m  OK  [0m] Stopped LSB: automatic crash report generation.
+[[0;32m  OK  [0m] Started ACPI event daemon.
+[[0;32m  OK  [0m] Started ACPI event daemon.
+[[0;32m  OK  [0m] Started ACPI event daemon.
+[[0;32m  OK  [0m] Started ACPI event daemon.
+[[0;32m  OK  [0m] Started ACPI event daemon.
+         Starting LSB: automatic crash report generation...
+[[0;32m  OK  [0m] Started LSB: automatic crash report generation.
+[[0;32m  OK  [0m] Started ACPI event daemon.
+[[0;32m  OK  [0m] Started Daily apt upgrade and clean activities.
