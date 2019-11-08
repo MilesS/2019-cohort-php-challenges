@@ -1,3 +1,16 @@
 p.highlighted {
     background: yellow;
 }
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box {
+    width: 50vw;
+    border: 1px solid #ccc;
+    min-height: 300px;
+}
+h2 {
+    border-bottom: 1px solid black;
+}
